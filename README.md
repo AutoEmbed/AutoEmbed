@@ -4,7 +4,7 @@
 
 # AutoEmbed
 
-**Towards Automated Software Development for Generic Embedded IoT Systems via LLMs**
+**LLM-driven Automated Software Development for Generic Embedded IoT Systems**
 
 The first fully automated software development platform for general-purpose embedded IoT systems — from natural language to verified code on real hardware.
 
@@ -219,10 +219,12 @@ If you find AutoEmbed useful, please cite our paper:
 
 ```bibtex
 @inproceedings{yang2026autoembed,
-  title={AutoEmbed: Towards Automated Software Development for Generic Embedded IoT Systems via LLMs},
+  title={AutoEmbed: LLM-driven Automated Software Development for Generic Embedded IoT Systems},
   author={Yang, Huanqi and Li, Mingzhe and Han, Mingda and Li, Zhenjiang and Xu, Weitao},
-  booktitle={Proceedings of the ACM International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys)},
-  year={2026}
+  booktitle={Proceedings of the 2026 ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys)},
+  pages={362--376},
+  year={2026},
+  doi={10.1145/3774906.3800466}
 }
 ```
 
